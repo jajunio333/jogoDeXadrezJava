@@ -8,6 +8,7 @@ public class Program {
 		
 		PartidaDeXadrez partida = new PartidaDeXadrez();
 		UI.printTabuleiro(partida.getPeças());
+		//dffg
 	}
 
 }
